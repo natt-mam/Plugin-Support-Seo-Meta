@@ -1,0 +1,7 @@
+URL,SEO Title,Meta Description,Focus Keyword,Canonical,Robots Index,Robots Follow,OG Title,OG Description,Twitter Title,Twitter Description
+/,Home - SEO Meta Importer Pro,Welcome to SEO Meta Importer Pro dashboard page.,seo importer,,index,follow,Home OG Title,Home OG Description,Home Twitter Title,Home Twitter Description
+/sample-page,Sample Page Title,This is a professional description for our sample WordPress page.,sample page,,index,follow,Sample OG Title,Sample OG Description,Sample Twitter Title,Sample Twitter Description
+/non-existent-page,Broken Slug Title,This row should fail during validation because the path does not exist.,broken path,,noindex,nofollow,Broken OG Title,Broken OG Description,,
+1,Post ID One Title,This post will match using its numeric Post ID instead of path.,numeric id,,index,follow,,,,
+product/wool-socks,Cozy Wool Socks,Buy high quality cozy wool socks online.,wool socks,https://domain.com/product/wool-socks,index,follow,OG Wool Socks,OG Socks Desc,Twitter Wool Socks,Twitter Socks Desc
+category/uncategorized,Uncategorized Archive,Browse posts inside uncategorized category archive.,uncategorized,,noindex,follow,,,,
